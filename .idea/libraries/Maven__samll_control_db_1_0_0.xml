@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: samll_control:db:1.0.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/samll_control/db/1.0.0/db-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/samll_control/db/1.0.0/db-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/samll_control/db/1.0.0/db-1.0.0-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/samll_control/db/1.0.0" />
+    </SOURCES>
+  </library>
+</component>
